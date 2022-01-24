@@ -1,0 +1,7 @@
+to createa user in jenkins goto manage jenkins -->manage users 
+there you have to create users
+to create role base authorization 
+you to have to download 1st plugin role base stragey plugin
+you have configure global security to role based stragey
+then you will see a option manage and aasingn roles 
+then open this option and manage roles for users
